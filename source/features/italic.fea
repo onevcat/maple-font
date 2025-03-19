@@ -1328,6 +1328,16 @@ feature calt {
     sub bracketleft' F A T A L bracketright by SPC;
   } badge_fatal.liga;
 
+  # [NOTE]
+  lookup badge_note.liga {
+    sub SPC SPC SPC SPC SPC bracketright' by badge_note.liga;
+    sub SPC SPC SPC SPC E' bracketright by SPC;
+    sub SPC SPC SPC T' O bracketright by SPC;
+    sub SPC SPC O' D O bracketright by SPC;
+    sub SPC N' O D O bracketright by SPC;
+    sub bracketleft' N O T E bracketright by SPC;
+  } badge_note.liga;
+
   # [TODO]
   lookup badge_todo.liga {
     sub SPC SPC SPC SPC SPC bracketright' by badge_todo.liga;
