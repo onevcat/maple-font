@@ -1343,7 +1343,7 @@ feature calt {
     sub SPC SPC SPC T' O bracketright by SPC;
     sub SPC SPC O' D O bracketright by SPC;
     sub SPC N' O D O bracketright by SPC;
-    sub bracketleft' T O D O bracketright by SPC;
+    sub bracketleft' N O T E bracketright by SPC;
   } badge_note.liga;
 
   # todo))
