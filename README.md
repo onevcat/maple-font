@@ -76,6 +76,15 @@ brew install --cask font-maple-mono-nf
 brew install --cask font-maple-mono-cn
 # Maple Mono NF CN
 brew install --cask font-maple-mono-nf-cn
+
+# Maple Mono Normal
+brew install --cask font-maple-mono-normal
+# Maple Mono Normal NF
+brew install --cask font-maple-mono-normal-nf
+# Maple Mono Normal CN
+brew install --cask font-maple-mono-normal-cn
+# Maple Mono Normal NF CN
+brew install --cask font-maple-mono-normal-nf-cn
 ```
 
 ### AUR (Arch Linux)
