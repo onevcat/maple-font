@@ -2,8 +2,13 @@ FontPatcher
 fonts
 release
 source/cn/**/*.ttf
+source/cn/**/*.vfc
 cdn
 
 __pycache__
 .DS_store
 *.zip
+.venv
+.vscode
+uv.lock
+*.backup
